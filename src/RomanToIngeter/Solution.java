@@ -1,4 +1,4 @@
-package src.RomanToIngeter;
+package RomanToIngeter;
 
 import java.util.HashMap;
 

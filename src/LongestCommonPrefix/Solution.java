@@ -1,4 +1,4 @@
-package src.LongestCommonPrefix;
+package LongestCommonPrefix;
 
 public class Solution {
   public static void main(String[] args) {
